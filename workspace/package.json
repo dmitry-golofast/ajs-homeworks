@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "''\u001b[DBrowser based game'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitry-golofast/ajs-homeworks.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Dmitry Golofast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitry-golofast/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/dmitry-golofast/ajs-homeworks#readme"
+}
